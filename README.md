@@ -10,7 +10,7 @@ plant-maintenance-system は、エッジコンピューティング環境にお�
 ## plant-maintenance-system のアーキテクチャ   
 以下の図はplant-maintenance-systemのアーキテクチャ図です。  
 
-![plant-maintenance-system](documents/plant_maintenance_system.drowio.png)
+![plant-maintenance-system](documents/plant_maintenance_system.drawio.png)
 
 
 ## plant-maintenance-system に含まれるリソース
