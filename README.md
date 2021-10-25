@@ -16,8 +16,8 @@ plant-maintenance-system は、エッジコンピューティング環境にお�
 ## plant-maintenance-system に含まれるリソース
 work-detection-system には、以下の マイクロサービス等 のリソースが含まれます。  
 ・[aion-core](https://github.com/latonaio/aion-core)および関連リソース      
-・[ui-frontend-for-maintenance](https://github.com/latonaio/ui-frontend-for-maintenance)   
-・[ui-backend-for-maintenance](https://github.com/latonaio/ui-backend-for-maintenance)   
+・[ui-frontend-for-plant-maintenance](https://github.com/latonaio/ui-frontend-for-plant-maintenance)   
+・[ui-backend-for-plant-maintenance](https://github.com/latonaio/ui-backend-for-plant-maintenance)   
 ・get-robot-backup-yaskawa-with-ftp-kube  
 ・[get-robot-data-triggered-by-ui-kube](https://github.com/latonaio/get-robot-data-triggered-by-ui-kube)    
 ・[control-yaskawa-robot-r-kube](https://github.com/latonaio/control-yaskawa-robot-r-kube)    （※1）  
